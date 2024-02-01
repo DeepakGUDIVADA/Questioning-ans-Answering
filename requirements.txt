@@ -9,4 +9,4 @@ transformers
 InstructorEmbedding
 torch
 sentence-transformers
-protobuf google
+
