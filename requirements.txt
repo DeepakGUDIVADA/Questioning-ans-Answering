@@ -8,3 +8,5 @@ google-generativeai==0.3.2
 transformers
 InstructorEmbedding
 torch
+sentence-transformers
+protobuf google
